@@ -1,0 +1,62 @@
+[2021/05/05-13:11:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7076 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-13:11:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-13:11:20] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 10.519 seconds (JVM running for 12.778)
+[2021/05/05-13:15:55] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/05-13:53:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4080 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-13:53:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-13:53:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.3 seconds (JVM running for 7.993)
+[2021/05/05-14:14:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 2316 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-14:14:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-14:14:35] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.734 seconds (JVM running for 8.518)
+[2021/05/05-14:22:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 23680 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-14:22:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-14:22:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.32 seconds (JVM running for 8.028)
+[2021/05/05-15:01:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 19528 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-15:01:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-15:01:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 7.663 seconds (JVM running for 9.562)
+[2021/05/05-15:09:38] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 23376 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-15:09:38] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-15:09:44] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.264 seconds (JVM running for 7.978)
+[2021/05/05-15:20:37] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 18572 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-15:20:37] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-15:20:43] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.543 seconds (JVM running for 8.237)
+[2021/05/05-15:35:42] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4896 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-15:35:42] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-15:35:48] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.749 seconds (JVM running for 8.578)
+[2021/05/05-16:48:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 23232 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-16:48:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-16:48:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.375 seconds (JVM running for 8.006)
+[2021/05/05-16:53:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 14480 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-16:53:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-16:53:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.233 seconds (JVM running for 7.842)
+[2021/05/05-16:56:00] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 8748 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-16:56:00] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-16:56:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.304 seconds (JVM running for 7.885)
+[2021/05/05-18:13:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 24932 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-18:13:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-18:13:40] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.459 seconds (JVM running for 8.153)
+[2021/05/05-18:25:45] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 27232 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-18:25:45] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-18:25:51] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.515 seconds (JVM running for 8.227)
+[2021/05/05-18:59:49] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/05-18:59:49] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/05-18:59:56] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/05-18:59:59] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/05-19:09:14] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 18140 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-19:09:14] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-19:09:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.441 seconds (JVM running for 8.047)
+[2021/05/05-20:09:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 26736 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-20:09:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-20:09:40] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.737 seconds (JVM running for 8.439)
+[2021/05/05-20:21:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 11700 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-20:21:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-20:22:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.214 seconds (JVM running for 7.874)
+[2021/05/05-20:39:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 5432 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-20:39:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-20:39:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.556 seconds (JVM running for 8.227)
+[2021/05/05-20:41:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 26864 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-20:41:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-20:41:11] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.233 seconds (JVM running for 7.911)
+[2021/05/05-20:46:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 16124 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/05-20:46:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/05-20:47:04] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.225 seconds (JVM running for 7.892)

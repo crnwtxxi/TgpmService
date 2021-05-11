@@ -1,0 +1,7 @@
+[2021/05/09-14:44:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 27188 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/09-14:44:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/09-14:44:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 11.163 seconds (JVM running for 13.565)
+[2021/05/09-16:42:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 20672 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/09-16:42:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/09-16:43:04] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.555 seconds (JVM running for 8.277)
+[2021/05/09-21:09:46] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------

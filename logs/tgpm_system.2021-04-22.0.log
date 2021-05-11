@@ -1,0 +1,195 @@
+[2021/04/22-15:10:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 17368 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-15:10:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-15:10:45] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 7.125 seconds (JVM running for 8.883)
+[2021/04/22-15:33:41] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 21276 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-15:33:41] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-15:33:46] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.98 seconds (JVM running for 7.679)
+[2021/04/22-16:33:15] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 16896 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-16:33:15] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-16:33:22] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 8.357 seconds (JVM running for 10.767)
+[2021/04/22-16:39:59] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 920d947711f1afd5f719cd9c5c3a4360
+[2021/04/22-16:40:01] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> 67478695ebb242a5dc4d048ac4b4dfb9
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 67478695ebb242a5dc4d048ac4b4dfb9
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : teacher ==> is null
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-16:40:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:40:12] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-16:40:12] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:40:12] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-16:40:12] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA4ODAyMywiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.fpsrQE-WdN_yQj7i6UGlURofEzdi0PIiaUVDSTIM4c8
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-16:40:31] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:54:43] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 12448 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-16:54:43] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-16:54:48] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.974 seconds (JVM running for 7.669)
+[2021/04/22-16:54:55] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-16:54:57] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA4ODAyMywiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.fpsrQE-WdN_yQj7i6UGlURofEzdi0PIiaUVDSTIM4c8
+[2021/04/22-16:54:57] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-16:54:58] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA4ODAyMywiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.fpsrQE-WdN_yQj7i6UGlURofEzdi0PIiaUVDSTIM4c8
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-16:58:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA4ODAyMywiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.fpsrQE-WdN_yQj7i6UGlURofEzdi0PIiaUVDSTIM4c8
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-17:14:23] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-18:35:55] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-18:35:55] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA4ODAyMywiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.fpsrQE-WdN_yQj7i6UGlURofEzdi0PIiaUVDSTIM4c8
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-18:35:56] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > 测试内容
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 49bb9eef73acd37e56a0b436c3801318
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NjM1NiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9._maTripecOE-VeY8dZpWhJweLwTO7lEcP-9CxT-Uljs
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/22-18:59:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='834866143431753728', content='测试内容', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > 测试内容
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 49bb9eef73acd37e56a0b436c3801318
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 删除了1条refreshToken数据
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NjQxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.6TlfD1EIDByEHHGCzQHNvoscYPYPWw9hEoXLMvhxJss
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/22-19:00:16] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='834866214403571712', content='测试内容', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/22-19:03:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 15956 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-19:03:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-19:03:40] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.101 seconds (JVM running for 8.155)
+[2021/04/22-19:05:34] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> b621765cbf1d93329174b1320d0a9432
+[2021/04/22-19:05:34] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwOCIsInNleCI6IueUtyIsIm5hbWUiOiLliJjogIHluIgiLCJyYW5rIjoi6auY57qn6K6y5biIIiwiaWQiOiI4MzMwODY3OTEyNDExNzA5NDQiLCJleHAiOjE2MTkwOTY2OTEsImVtYWlsIjoiMTk5OTExMDIwOEBxcS5jb20iLCJkaXJlY3Rpb24iOiLnianogZTnvZEiLCJzdGF0dXMiOiLlnKjogYwifQ.lr_L7Bb7LDAFyqANCMpQYbsGnYvOEAkV2jZOmNx0YoY
+[2021/04/22-19:05:34] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:05:34] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/22-19:05:34] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> b621765cbf1d93329174b1320d0a9432
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 删除了1条refreshToken数据
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwOCIsInNleCI6IueUtyIsIm5hbWUiOiLliJjogIHluIgiLCJyYW5rIjoi6auY57qn6K6y5biIIiwiaWQiOiI4MzMwODY3OTEyNDExNzA5NDQiLCJleHAiOjE2MTkwOTY3NjgsImVtYWlsIjoiMTk5OTExMDIwOEBxcS5jb20iLCJkaXJlY3Rpb24iOiLnianogZTnvZEiLCJzdGF0dXMiOiLlnKjogYwifQ.ATRPn3Cf0OhJiCvUeipMSlq7b_87aOmwSW4ppJW3wNU
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/22-19:06:08] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken is null----------
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:07:44] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> b74a25909e6ca7e0bb93ef381d959fd7
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken is null----------
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:08:06] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:10:47] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:10:47] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:10:47] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:18:27] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4300 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-19:18:27] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-19:18:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.102 seconds (JVM running for 7.867)
+[2021/04/22-19:23:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 12840 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-19:23:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-19:23:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.406 seconds (JVM running for 8.194)
+[2021/04/22-19:25:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:25:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:25:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:25:35] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:26:20] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:26:46] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-19:36:41] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:10:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 15920 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/22-20:10:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/22-20:10:16] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.444 seconds (JVM running for 8.578)
+[2021/04/22-20:15:29] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-20:15:31] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-20:15:31] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-20:15:32] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-20:15:32] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-20:15:32] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:15:32] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-20:15:32] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 13c391bc8ff6499451f24f82b6531327
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJhZG1pc3MiOiIyMDE3Iiwic2V4Ijoi5aWzIiwibmFtZSI6IumZiOmmmeS8tiIsImlkIjoiNzIzMTMyNTk4NDA2MDg2NjU2IiwidHlwZSI6IuS4k-S4muWei-ehleWjqyIsImV4cCI6MTYxOTA5NzkxNiwiZW1haWwiOiIxMjUyMDA1NzA4QHFxLmNvbSIsImRpcmVjdGlvbiI6IuS4jeWMuuWIhuaWueWQkSIsInN0YXR1cyI6IuWcqOivuyJ9.2YTmoN5LU7jM3Wv1XpCC3bsxoJmazW236lfklFL2Ufg
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-20:15:53] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:15:53] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:15:53] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-20:15:53] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> 53e423d9a34d237dc5d3b8d00e3be7c3
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkAdminLogin tokenKey ==> 53e423d9a34d237dc5d3b8d00e3be7c3
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwiYW5vIjoiMTIzNDU2Nzg5MCIsImlkIjoiODMzMDIxMTM4NjIyNzQxMDIyIiwiZXhwIjoxNjE5MTAxMTM4fQ.66tZ9BQ_8ejzLKAvUknbVZSVTwMw27UJBmUo8oPEQPo
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/22-20:23:42] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/22-20:23:42] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/22-20:23:42] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeAdmin tokenKey ==> null
+[2021/04/22-20:23:42] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null

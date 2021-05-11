@@ -1,0 +1,85 @@
+[2021/04/19-14:44:35] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 11008 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-14:44:35] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-14:44:44] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 9.31 seconds (JVM running for 11.536)
+[2021/04/19-14:49:33] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 3ebabda5eadf38bb023b5441d365b1a9
+[2021/04/19-14:49:33] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/19-14:49:33] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/04/19-14:50:22] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 3ebabda5eadf38bb023b5441d365b1a9
+[2021/04/19-14:50:22] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/19-14:50:22] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken is null----------
+[2021/04/19-14:51:33] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 3ebabda5eadf38bb023b5441d365b1a9
+[2021/04/19-14:51:33] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/19-14:51:33] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken is null----------
+[2021/04/19-14:55:06] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 0f32676cfb2f0dc0df14e2baa6d4c4f2
+[2021/04/19-14:55:06] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwMSIsInNleCI6IuWlsyIsIm5hbWUiOiLpmYjogIHluIgiLCJyYW5rIjoi5Ymv5pWZ5o6IIiwiaWQiOiI4MzMwODY3OTAyMzAzNDM2ODAiLCJleHAiOjE2MTg4MjI0NjcsImVtYWlsIjoiMTk5OTExMDIwMUBxcS5jb20iLCJkaXJlY3Rpb24iOiLmlbDmja7mjJbmjpgiLCJzdGF0dXMiOiLlnKjogYwifQ.YSpCAGgHPdewra4Q4PixV5GuCo88FXu6-2kuJgDlAoo
+[2021/04/19-14:55:06] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/19-14:55:06] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/19-14:55:06] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/19-14:59:24] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 7b66bd427e6f8b8ba3273d07533235d7
+[2021/04/19-14:59:24] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwOCIsInNleCI6IueUtyIsIm5hbWUiOiLliJjogIHluIgiLCJyYW5rIjoi6auY57qn6K6y5biIIiwiaWQiOiI4MzMwODY3OTEyNDExNzA5NDQiLCJleHAiOjE2MTg4MjI3NTYsImVtYWlsIjoiMTk5OTExMDIwOEBxcS5jb20iLCJkaXJlY3Rpb24iOiLnianogZTnvZEiLCJzdGF0dXMiOiLlnKjogYwifQ.ij8pDCGjOsMU3TJZodH9HCmShK8Ra-qqXmcbmAKs3ik
+[2021/04/19-14:59:24] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/19-14:59:24] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/19-14:59:24] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/19-15:05:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7636 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-15:05:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-15:05:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.333 seconds (JVM running for 8.118)
+[2021/04/19-15:05:31] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : judgeTeacher tokenKey ==> null
+[2021/04/19-15:05:31] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : tokenKey ==> is null
+[2021/04/19-15:10:29] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7544 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-15:10:29] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-15:10:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.832 seconds (JVM running for 7.679)
+[2021/04/19-15:10:42] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:12:07] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 7b66bd427e6f8b8ba3273d07533235d7
+[2021/04/19-15:12:09] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/19-15:12:10] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken is null----------
+[2021/04/19-15:12:10] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------teacher is null----------
+[2021/04/19-15:14:35] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 1d5ff7856017c8170210231242072679
+[2021/04/19-15:14:35] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwOCIsInNleCI6IueUtyIsIm5hbWUiOiLliJjogIHluIgiLCJyYW5rIjoi6auY57qn6K6y5biIIiwiaWQiOiI4MzMwODY3OTEyNDExNzA5NDQiLCJleHAiOjE2MTg4MjM2NzAsImVtYWlsIjoiMTk5OTExMDIwOEBxcS5jb20iLCJkaXJlY3Rpb24iOiLnianogZTnvZEiLCJzdGF0dXMiOiLlnKjogYwifQ.vDaiCOAnbH-kypiTQ0uNZUrcgCVKtUxwydb_pdHFky4
+[2021/04/19-15:14:35] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/19-15:14:35] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/19-15:14:35] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/19-15:15:11] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:17:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:23:45] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:24:19] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkTeaLogin tokenKey ==> 8c32375eaf203901cd9be26ea8d2ff2a
+[2021/04/19-15:24:19] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwidG5vIjoiMTk5OTExMDIwOCIsInNleCI6IueUtyIsIm5hbWUiOiLliJjogIHluIgiLCJyYW5rIjoi6auY57qn6K6y5biIIiwiaWQiOiI4MzMwODY3OTEyNDExNzA5NDQiLCJleHAiOjE2MTg4MjQyMzcsImVtYWlsIjoiMTk5OTExMDIwOEBxcS5jb20iLCJkaXJlY3Rpb24iOiLnianogZTnvZEiLCJzdGF0dXMiOiLlnKjogYwifQ.S3XIgGi-O4Wi84tVV3vgOYJ1p2bm4IaTJvwO90HkMlk
+[2021/04/19-15:24:19] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/19-15:24:19] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : null
+[2021/04/19-15:24:19] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/19-15:25:35] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:28:23] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:31:47] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:32:13] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:35:00] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-15:39:32] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 11096 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-15:39:32] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-15:39:38] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.957 seconds (JVM running for 8.323)
+[2021/04/19-16:34:54] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-16:44:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 2936 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:44:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:44:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.985 seconds (JVM running for 7.785)
+[2021/04/19-16:45:31] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 13952 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:45:31] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:45:37] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.099 seconds (JVM running for 7.788)
+[2021/04/19-16:46:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 3392 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:46:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:46:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.122 seconds (JVM running for 7.938)
+[2021/04/19-16:49:52] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 13804 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:49:52] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:49:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.092 seconds (JVM running for 7.795)
+[2021/04/19-16:50:37] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 1552 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:50:37] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:50:42] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.812 seconds (JVM running for 7.48)
+[2021/04/19-16:51:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 12524 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:51:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:51:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 5.899 seconds (JVM running for 7.698)
+[2021/04/19-16:54:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 21936 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:54:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:54:30] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.104 seconds (JVM running for 7.791)
+[2021/04/19-16:56:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 19448 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/19-16:56:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/19-16:56:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.264 seconds (JVM running for 8.055)
+[2021/04/19-18:45:41] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-19:03:01] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-19:03:15] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------
+[2021/04/19-19:06:52] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.UploadPlanServiceImpl] : ---------tokenKey is null----------

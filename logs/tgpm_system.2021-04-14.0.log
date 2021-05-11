@@ -1,0 +1,207 @@
+[2021/04/14-16:40:09] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 18488 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-16:40:09] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-16:40:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 9.894 seconds (JVM running for 13.312)
+[2021/04/14-16:50:50] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 10748 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-16:50:51] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-16:50:57] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.644 seconds (JVM running for 8.869)
+[2021/04/14-16:53:07] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-16:53:07] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > 啦啦啦啦啦啦
+[2021/04/14-16:53:07] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------tokenKey is null----------
+[2021/04/14-16:56:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 8124 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-16:56:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-16:57:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.858 seconds (JVM running for 9.008)
+[2021/04/14-16:58:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-16:58:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > 啦啦啦啦啦啦
+[2021/04/14-17:01:22] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 19208 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-17:01:22] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-17:01:28] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.697 seconds (JVM running for 8.914)
+[2021/04/14-17:02:26] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-17:02:26] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-17:02:26] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-17:03:56] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 22984 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-17:03:56] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-17:04:02] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.501 seconds (JVM running for 8.685)
+[2021/04/14-17:04:12] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-17:04:12] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-17:04:15] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-17:06:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 10636 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-17:06:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-17:06:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.458 seconds (JVM running for 8.597)
+[2021/04/14-17:06:23] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-17:06:23] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-17:06:26] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------student is null : token is not null----------
+[2021/04/14-17:06:28] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-17:06:28] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831938471605043200', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-17:08:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4352 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-17:08:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-17:08:31] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.322 seconds (JVM running for 8.456)
+[2021/04/14-17:08:56] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-17:08:56] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-17:08:59] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------student not null : token is not null----------
+[2021/04/14-17:09:00] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------student not null : 解析token----------
+[2021/04/14-17:09:00] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-17:09:00] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831939111471284224', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-19:41:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 1672 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-19:41:25] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-19:41:34] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 9.643 seconds (JVM running for 12.537)
+[2021/04/14-19:43:46] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 11912 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-19:43:46] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-19:43:52] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.33 seconds (JVM running for 8.378)
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------student not null : token is not null----------
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------student not null : 解析token----------
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-19:44:44] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831978302909448192', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-19:45:32] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-19:45:32] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-19:45:32] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:00:04] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 12936 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:00:04] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:00:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.639 seconds (JVM running for 8.889)
+[2021/04/14-20:00:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:00:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:00:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> c3e18f548a532c74f465534a434a1aee
+[2021/04/14-20:00:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA4ODE5LCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.SJRR1Lpnv4S5iNsRc1ajLrzmnaOKEmQEVSiFPVhoX5k
+[2021/04/14-20:00:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:00:54] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:00:54] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:00:54] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> c3e18f548a532c74f465534a434a1aee
+[2021/04/14-20:00:54] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA4ODE5LCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.SJRR1Lpnv4S5iNsRc1ajLrzmnaOKEmQEVSiFPVhoX5k
+[2021/04/14-20:00:54] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:03:14] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 1052 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:03:14] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:03:20] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.727 seconds (JVM running for 8.937)
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 1245a3e9bc718e00d316aa8e6ded2fdc
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5MDExLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.me__GC2e0VKW86AQyaQPUwXQOTTJ1HXW_yUGzd0_sdw
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:03:43] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:05:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4572 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:05:05] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:05:10] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.476 seconds (JVM running for 8.707)
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> af974110431b990115216d412adaa2bd
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5MTUwLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.VtZVS6qOAZPIeWEtyW5myaV85xjyn6lsEo34nT9v_qw
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------com.example.tgpmsystem.pojo.StuResponse@4ff92fb2
+[2021/04/14-20:05:59] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:07:52] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 14580 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:07:52] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:07:58] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.518 seconds (JVM running for 8.798)
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 6599f87550406b75c49e01e286f870b4
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5MjkzLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.jtpzWQ3TWdPq2FMI64Z9dcSwCYXEthzpCH168CONoNM
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : com.example.tgpmsystem.pojo.StuResponse@57d64495
+[2021/04/14-20:08:22] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:13:32] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 9808 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:13:32] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:13:38] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.638 seconds (JVM running for 8.781)
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 8ee3bafc7cde61da1286f9b04676b82d
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5NjM3LCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.LzdI-Va4Rr7fsXJRjEgOHRgLlc-R0TkDeIdgtH0CLrU
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : com.example.tgpmsystem.pojo.StuResponse@ac35106
+[2021/04/14-20:14:31] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:15:51] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 2584 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:15:51] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:15:57] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.894 seconds (JVM running for 9.113)
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> d67454f0987623d725ca43d3225caed3
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5NzY2LCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.yIIUqYjR6uARaYQG2C9LwU_HtTxmsSKd7bYpU3eQw54
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:16:15] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------student is null----------
+[2021/04/14-20:19:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7212 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:19:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:19:19] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.713 seconds (JVM running for 8.957)
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 63ddc8befa18af45802c57084f00d332
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDA5OTkwLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.7WzajsTAGPN1qKQ3OkenOBsuF02hhs8DB8lALrdn7Fk
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------打印student----------
+[2021/04/14-20:19:59] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.controller.TestController] : student is null?  == >  true
+[2021/04/14-20:27:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7508 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:27:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:27:30] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.436 seconds (JVM running for 8.552)
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 34e577a71fb9646e2e5a45040d953838
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDEwNDYwLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.iRLHYlW7SyUZXZW-Wno2ofIX-wdAV85uHmBG0Hv8gQM
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------打印student----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : student is null?  == >  false
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-20:27:49] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831989142723231744', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 34e577a71fb9646e2e5a45040d953838
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDEwNDkzLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0._idF3g6yw4LfLDNNaRrLh_9Q83BVoeRTzWt_cIZ2Oac
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------打印student----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : student is null?  == >  false
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-20:28:13] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831989244288303104', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:29:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 6612 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/04/14-20:29:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/04/14-20:29:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.592 seconds (JVM running for 8.709)
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 89e284b8d9b67bb1a14b24c7bab3ea64
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDEwNjE1LCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.RHjvO_ENJIoAMFWrLFPIV1R29M0zOQhzlSt8f4S68qg
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------打印student----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : student is null?  == >  false
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-20:30:25] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831989798095814656', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:30:41] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------test token----------
+[2021/04/14-20:30:41] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : test content == > hhhhhhhhhhhhh
+[2021/04/14-20:30:41] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : checkStuLogin tokenKey ==> 89e284b8d9b67bb1a14b24c7bab3ea64
+[2021/04/14-20:30:41] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> null
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 删除了1条refreshToken数据
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : parseByTokenKey token ==> eyJhbGciOiJIUzI1NiJ9.eyJjb2xsZWdlIjoi6K6h566X5py656eR5a2m5a2m6ZmiIiwicHJvZmVzcyI6IueUteWtkOS_oeaBryIsInNubyI6IjIwMTcxMTAyMDYiLCJzZXgiOiLlpbMiLCJuYW1lIjoi6ZmI6aaZ5Ly2IiwiaWQiOiI3MjMxMzI1OTg0MDYwODY2NTYiLCJ0eXBlIjoi5LiT5Lia5Z6L56GV5aOrIiwiZXhwIjoxNjE4NDEwNjQyLCJlbWFpbCI6IjEyNTIwMDU3MDhAcXEuY29tIiwiZGlyZWN0aW9uIjoi5LiN5Yy65YiG5pa55ZCRIn0.9LNsZrqKxjCN4tPAKNXlJ4IvGr6tIZzRagtbs-cz6Uc
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------token is not null-----------
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : 2017110206
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ----------解析token-----------
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : --------claims-----------
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.utils.ClaimsUtils] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------打印student----------
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : student is null?  == >  false
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : StuResponse{stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : ---------token message----------
+[2021/04/14-20:30:42] [http-nio-8080-exec-4] [INFO ] [com.example.tgpmsystem.controller.TestController] : Test{id='831989867490574336', content='hhhhhhhhhhhhh', stuSno='2017110206', stuName='陈香伶', stuSex='女', stuCollege='计算机科学学院', stuProfess='电子信息', stuType='专业型硕士', stuDirection='不区分方向', teaId='null', stuEmail='1252005708@qq.com', stuId='723132598406086656'}

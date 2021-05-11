@@ -1,0 +1,72 @@
+[2021/05/10-00:01:48] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 7428 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-00:01:48] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-00:01:55] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.814 seconds (JVM running for 8.549)
+[2021/05/10-00:15:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 25688 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-00:15:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-00:15:13] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.329 seconds (JVM running for 7.992)
+[2021/05/10-00:15:35] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/10-00:15:55] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/10-00:15:55] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/10-00:17:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 27188 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-00:17:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-00:17:45] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 7.234 seconds (JVM running for 9.087)
+[2021/05/10-00:17:52] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : OpenTutorVo{alloOndate=null, alloOffdate=null, alloGrade='null', quotaAmount=0}
+[2021/05/10-00:21:05] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : OpenTutorVo{alloOndate=null, alloOffdate=null, alloGrade='null', quotaAmount=0}
+[2021/05/10-00:21:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 30432 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-00:21:33] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-00:21:39] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.703 seconds (JVM running for 8.444)
+[2021/05/10-00:21:53] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : OpenTutorVo{alloOndate=Sun May 09 00:00:00 CST 2021, alloOffdate=Wed May 12 00:00:00 CST 2021, alloGrade='2021', quotaAmount=3}
+[2021/05/10-00:36:48] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : OpenTutorVo{alloOndate=Sun May 09 00:00:00 CST 2021, alloOffdate=Wed May 12 00:00:00 CST 2021, alloGrade='2021', quotaAmount=4}
+[2021/05/10-00:46:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 18880 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-00:46:18] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-00:46:24] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.361 seconds (JVM running for 8.16)
+[2021/05/10-01:33:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 25436 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-01:33:53] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-01:33:59] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.431 seconds (JVM running for 8.187)
+[2021/05/10-21:05:07] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 24208 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-21:05:07] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-21:05:27] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 23.757 seconds (JVM running for 28.458)
+[2021/05/10-21:05:46] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.LoginServiceImpl] : ---------refreshToken 过期----------
+[2021/05/10-21:44:11] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 4940 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-21:44:11] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-21:44:16] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.245 seconds (JVM running for 7.938)
+[2021/05/10-21:44:36] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@c1499b4
+[2021/05/10-21:46:46] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 10748 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-21:46:46] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-21:46:51] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.295 seconds (JVM running for 7.959)
+[2021/05/10-21:48:03] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@60c9e1fe
+[2021/05/10-21:52:01] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 26524 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-21:52:01] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-21:52:07] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.349 seconds (JVM running for 8.044)
+[2021/05/10-21:54:37] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@41d6a57e
+[2021/05/10-21:55:12] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@1dec5367
+[2021/05/10-21:58:00] [http-nio-8080-exec-10] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@44e4d34b
+[2021/05/10-22:01:33] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@302a2eda
+[2021/05/10-22:02:20] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 8056 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-22:02:20] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-22:02:26] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.464 seconds (JVM running for 8.16)
+[2021/05/10-22:03:02] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@717081f
+[2021/05/10-22:03:02] [http-nio-8080-exec-3] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@5f965002
+[2021/05/10-22:03:09] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@58c5657
+[2021/05/10-22:03:09] [http-nio-8080-exec-6] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : com.example.tgpmsystem.pojo.Allocate@2b5129ee
+[2021/05/10-22:03:57] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 10368 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-22:03:57] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-22:04:03] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.276 seconds (JVM running for 7.93)
+[2021/05/10-22:04:33] [http-nio-8080-exec-1] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='计算机科学学院', alloGrade='2021', alloOndate=Fri May 14 00:00:00 CST 2021, alloOffdate=Sat May 15 00:00:00 CST 2021}
+[2021/05/10-22:04:51] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='null', alloGrade='null', alloOndate=Sat May 01 00:00:00 CST 2021, alloOffdate=Sat May 08 00:00:00 CST 2021}
+[2021/05/10-22:04:51] [http-nio-8080-exec-5] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='计算机科学学院', alloGrade='2021', alloOndate=Sat May 01 00:00:00 CST 2021, alloOffdate=Sat May 08 00:00:00 CST 2021}
+[2021/05/10-22:09:00] [http-nio-8080-exec-7] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='计算机科学学院', alloGrade='2021', alloOndate=Sat May 01 00:00:00 CST 2021, alloOffdate=Sat May 08 00:00:00 CST 2021}
+[2021/05/10-22:09:10] [http-nio-8080-exec-9] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='计算机科学学院', alloGrade='2021', alloOndate=Sat May 01 00:00:00 CST 2021, alloOffdate=Sat May 08 00:00:00 CST 2021}
+[2021/05/10-22:35:44] [http-nio-8080-exec-8] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Allocate{alloId='841111498368483328', alloCollege='计算机科学学院', alloGrade='2021', alloOndate=Sat May 01 00:00:00 CST 2021, alloOffdate=Sat May 08 00:00:00 CST 2021}
+[2021/05/10-23:11:02] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 30272 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-23:11:02] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-23:11:07] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.254 seconds (JVM running for 7.956)
+[2021/05/10-23:27:11] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 20968 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-23:27:11] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-23:27:17] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.345 seconds (JVM running for 8.004)
+[2021/05/10-23:48:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Starting TgpmsystemApplication using Java 1.8.0_191 on DESKTOP-UD6V6D5 with PID 18012 (E:\Project_IDEA\tgpmsystem\target\classes started by 陈香伶 in E:\Project_IDEA\tgpmsystem)
+[2021/05/10-23:48:08] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : No active profile set, falling back to default profiles: default
+[2021/05/10-23:48:14] [restartedMain] [INFO ] [com.example.tgpmsystem.TgpmsystemApplication] : Started TgpmsystemApplication in 6.335 seconds (JVM running for 7.998)
+[2021/05/10-23:48:35] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Mon May 10 23:48:35 CST 2021
+[2021/05/10-23:48:35] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : ========================
+[2021/05/10-23:48:35] [http-nio-8080-exec-2] [INFO ] [com.example.tgpmsystem.service.impl.TutorServiceImpl] : Sat May 01 00:00:00 CST 2021---Sat May 08 00:00:00 CST 2021
